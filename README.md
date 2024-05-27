@@ -1,5 +1,5 @@
 Descrição
-A Calculadora App é um aplicativo simples e intuitivo desenvolvido no MIT App Inventor, projetado para realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão. Este aplicativo é uma ótima ferramenta para usuários que precisam de uma calculadora rápida e fácil de usar no seu dispositivo móvel.
+A Calculadora é um aplicativo simples e intuitivo desenvolvido no App Inventor, projetado para realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão. Este aplicativo é uma ótima ferramenta para usuários que precisam de uma calculadora rápida e fácil de usar no seu dispositivo móvel.
 
 Funcionalidades
 Adição: Permite somar dois números.
